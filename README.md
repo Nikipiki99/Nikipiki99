@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nikipiki99
-- 👀 I’m interested in studying coding
+- 👀 I’m interested in studying 
+
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on survays and courses
 - 📫 How to reach me ...
