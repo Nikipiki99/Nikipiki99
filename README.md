@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikipiki99
 - 👀 I’m interested in studying 
-- 🌱 I have learned python and I am looking to learn javascript and C++
-- 💞️ I’m looking to collaborate on survays and courses
+- 🌱 I have mastered python and I am looking forward to learn javascript and C++
+- 💞️ I’m looking to take part in survays and courses
 - 📫 How to reach me ...
 
 <!---
